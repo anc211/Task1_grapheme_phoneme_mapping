@@ -1,0 +1,15 @@
+﻿pic1,pic2,pic3,sound,image_icon1,image_icon2,image_icon3,sound1,sound2,condition
+pics/blank.jpg,pics/blank.jpg,pics/v3.png,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/ih.wav,sound/blank.wav,vowel
+pics/blank.jpg,pics/blank.jpg,pics/v4.png,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/eh.wav,sound/blank.wav,vowel
+pics/blank.jpg,pics/blank.jpg,pics/v1.png,sound/test.wav,pics/speaker_icon.jpg,pics/speaker_icon.jpg,pics/blank.jpg,sound/ae.WAV,sound/ay.WAV,vowel
+pics/blank.jpg,pics/blank.jpg,pics/v2.png,sound/test.wav,pics/speaker_icon.jpg,pics/speaker_icon.jpg,pics/blank.jpg,sound/iy.WAV,sound/ey.WAV,vowel
+pics/c1a.jpg,pics/c1b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/b.WAV,sound/blank.wav,consonant
+pics/c2a.jpg,pics/c2b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/d.WAV,sound/blank.wav,consonant
+pics/c3a.jpg,pics/c3b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/k.WAV,sound/blank.wav,consonant
+pics/c4a.jpg,pics/c4b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/l.WAV,sound/blank.wav,consonant
+pics/c5a.jpg,pics/c5b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/m.WAV,sound/blank.wav,consonant
+pics/c6a.jpg,pics/c6b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/n.WAV,sound/blank.wav,consonant
+pics/c7a.jpg,pics/c7b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/p.WAV,sound/blank.wav,consonant
+pics/c8a.jpg,pics/c8b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/r.WAV,sound/blank.wav,consonant
+pics/c9a.jpg,pics/c9b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/s.WAV,sound/blank.wav,consonant
+pics/c10a.jpg,pics/c10b.jpg,pics/blank.jpg,sound/test.wav,pics/blank.jpg,pics/blank.jpg,pics/speaker_icon.jpg,sound/t.WAV,sound/blank.wav,consonant
